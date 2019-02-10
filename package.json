@@ -14,14 +14,10 @@
     "flux"
   ],
   "author": "Dan Abramov <dan.abramov@me.com>",
-  "main": "lib/index.js",
-  "module": "es/index.js",
+  "main": "./index.js",
   "typings": "./index.d.ts",
   "files": [
-    "lib",
-    "es",
-    "src",
-    "dist",
+    "index.js",
     "index.d.ts"
   ],
   "scripts": {
